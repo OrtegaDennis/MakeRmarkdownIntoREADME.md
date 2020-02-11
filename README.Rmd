@@ -1,0 +1,13 @@
+---
+title: "MAKING A .MD FILE"
+author: "Dennis Ortega"
+date: "2/11/2020"
+output: md_document
+---
+
+```{r}
+plot(mtcars$cyl)
+
+```
+
+
